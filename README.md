@@ -1,0 +1,2 @@
+# Initialize
+Initialization of application
